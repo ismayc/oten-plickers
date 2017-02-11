@@ -73,11 +73,33 @@ I will demonstrate that the power of Plickers is really in their simplicity. Stu
 
 ---
 
+# What about PollEverywhere?
+
+<center>
+<a href="http://www.polleverywhere.com">
+  <img src="img/pe.png" width="550">
+</a>
+
+---
+
 # Why Plickers?
+
+### Not this...
 
 <center>
 <a href="http://giphy.com/gifs/make-it-rain-bills-XGP7mf38Vggik">
   <img src="img/money.gif" width="650">
+</a>
+
+---
+
+# Why Plickers?
+
+### Or this...
+
+<center>
+<a href="http://giphy.com/gifs/yjos61Qgsy17q">
+  <img src="img/travolta.gif" width="800">
 </a>
 
 ---
@@ -150,6 +172,15 @@ class: center, middle
 - [My blogpost on Plickers](http://blogs.reed.edu/ed-tech/2016/03/plickers-an-excellent-alternative-to-clickers/)
 
 - [Eric Mazur discussing the power of just-in-time teaching (YouTube)](https://www.youtube.com/watch?v=Z9orbxoRofI)
+
+---
+
+# Another excellent resource
+
+<center>
+<a href="http://www.powells.com/book/small-teaching-everyday-lessons-from-the-science-of-learning-9781118944493/62-0">
+  <img src="img/smallteach.png" width="300">
+</a>
 
 ---
 
