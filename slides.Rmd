@@ -1,0 +1,165 @@
+---
+title: Plickers
+subtitle: A free alternative to clickers
+author: "<br> Chester Ismay <br> Reed College/Pacific University <br> Email: chester@pacificu.edu <br> Twitter:  @old_man_chester"
+date: '2017/02/11 <br><br> Slides available at http://bit.ly/oten-plickers <br> Source code available at https://github.com/ismayc/oten-plickers'
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: monokai
+      highlightLines: true
+    countIncrementalSlides: false
+    css: example.css
+---
+
+layout: true
+
+.footer[These slides available at <http://bit.ly/oten-plickers>]
+
+<!--
+Ever wanted to add classroom response systems (clickers) to your courses but don’t want to deal with all the headaches and cost? Plickers is a free and excellent alternative!
+
+I’ll describe how I have used Plickers in my SOC 301 class at Pacific and my MATH 141 course at Reed to check for student understanding and to facilitate just-in-time teaching. My purpose is to show faculty/teachers that for reasonably sized classes (15-60) classroom response systems are a great way to break up a lecture, test for understanding after an activity, spark discussions among students on a topic, or just engage students in an enjoyable way for the instructor and for the students. I’ll discuss how I go about creating multiple-choice questions for use with the Plickers, what has gone well, and what I’d like to improve on going forward.
+
+I will demonstrate that the power of Plickers is really in their simplicity. Students hold up a piece of paper with their response (A, B, C, or D) to a multiple-choice question. The instructor then opens the free Plickers app and scans the room for responses. As the instructor scans the room, the app automatically detects student responses and the instructor is able to look immediately at the distribution of responses and how each student has voted. This requires no Internet connection, nothing to download for the students, and no devices to carry around before, during, and after class. Further, I’ll provide an opportunity to demonstrate the Plickers with those in attendance, show them how to use the Plickers smartphone app, and how to create their own questions. I’m hoping that those in attendance, regardless of discipline will have new ideas in how they could Plickers in their courses.
+-->
+
+---
+
+# Why are classroom response systems useful for student learning?
+--
+
+<center>
+<a href="http://teachinginhighered.com/podcast/correcting-mental-models/">
+  <img src="img/meg.jpg" width="700">
+</a>
+
+---
+
+# Why are classroom response systems useful for student learning?
+--
+
+<center>
+<a href="http://teachinginhighered.com/podcast/correcting-mental-models/">
+  <img src="img/meg2.jpg" width="700">
+</a>
+
+---
+
+
+# So what about clickers?
+
+<center>
+[![](img/turningpoint.jpg)](http://static2.businessinsider.com/image/54b01d036da811f73e49aee9/dartmouth-students-allegedly-used-these-clickers-to-cheat-in-a-sports-ethics-class.jpg)
+
+---
+
+# Sounds good, but...
+
+<center>
+<a href="https://www.amazon.com/Turning-Classroom-RCIR-02-ResponseCard-Clickers/dp/B00F7FMOGQ">
+  <img src="img/cost.png" width="700">
+</a>
+
+---
+
+# Ugh...
+
+<center>
+<a href="https://www.amazon.com/I-Clicker-2-i-clicker/dp/1429280476">
+  <img src="img/iclicker.png" width="550">
+</a>
+
+---
+
+# Why Plickers?
+
+<center>
+<a href="http://giphy.com/gifs/make-it-rain-bills-XGP7mf38Vggik">
+  <img src="img/money.gif" width="650">
+</a>
+
+---
+
+# Is it really free?
+
+--
+
+### Aside from printing the cards, ABSOLUTELY, YES!  It's completely free.
+
+--
+
+<center>
+<a href="https://plickers.com/cards">
+  <img src="img/cards.png" width="500">
+</a>
+
+---
+
+# But how do you get the student responses?
+
+<center>
+<a href="https://giphy.com/gifs/shia-labeouf-12NUbkX6p4xOO4">
+  <img src="img/magic.gif" width="500">
+</a>
+
+---
+
+class: center, middle
+
+<font size="85">DEMO</font>
+
+## http://plickers.com
+
+---
+
+# Writing good multiple choice questions
+
+<center>
+<a href="http://giphy.com/gifs/tonyawards-tony-awards-2016-tonys-xT0GqJLopUHbSrTuNO">
+  <img src="img/danes.gif" width="700">
+</a>
+
+---
+
+# Some tips
+--
+
+- Have students write their own multiple choice questions for practice
+
+    - Students can try out other student questions
+    - Crowdsourcing for the win!
+--
+
+- Keep data on incorrect responses you have seen in the past
+--
+
+- Use *None of the above* &nbsp; & &nbsp; *Two of the above are true* <br> as options
+
+---
+
+# Resources
+
+- [Plickers Help](https://plickers.zendesk.com/hc/en-us)
+
+- [Plickers 101: Plickers Made Easy Webinar (YouTube)](https://www.youtube.com/watch?v=KcMbP8ENxOI)
+
+- [Plickers - A Step by Step Tutorial (YouTube)](https://www.youtube.com/watch?v=Qpx56rjCVjQ)
+
+- [My blogpost on Plickers](http://blogs.reed.edu/ed-tech/2016/03/plickers-an-excellent-alternative-to-clickers/)
+
+- [Eric Mazur discussing the power of just-in-time teaching (YouTube)](https://www.youtube.com/watch?v=Z9orbxoRofI)
+
+---
+
+# Thanks!
+
+- Slides created via the R package [<small>`xaringan`</small>](https://github.com/yihui/xaringan) by Yihui Xie.
+
+- Email me at <chester@pacificu.edu>
+
+- Follow me on Twitter @old_man_chester
+
+- Source code for these slides is on [GitHub](https://github.com/ismayc/oten-plickers) 
+
